@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mariangela Pollali</h1>
 <h3 align="center">Mathematician/Data Scientist from Athens, Greece</h3>
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/10549/screenshots/9890798/media/f38f0e4d71d9763c7533641d2418b35b.png?compress=1&resize=400x300">
+
+- 🔭 I’m currently working on **Digital Assistant for Geospatial Data**
+
+- 🌱 I’m currently learning **JavaScript & Node.js**
+
+- 💬 Ask me about **Machine Learning & Analytics**
 
 - 📫 How to reach me **mariangela.pollali@gmail.com**
 
