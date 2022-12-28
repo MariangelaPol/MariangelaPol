@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript & Node.js**
 
-- 💬 Ask me about **Machine Learning & Analytics**
+- 💬 Ask me about **Data Analytics & Machine Learning**
 
 - 📫 How to reach me **mariangela.pollali@gmail.com**
 
